@@ -75,7 +75,8 @@
 - [ElMitch](https://github.com/ElMitch)
 - [JustinStanger](https://github.com/JStanger13)
 - nini faroux
-- Sushrut Raina
+Russell Pereira-
+Sushrut Raina
 - Johan Eriksson
 - [Neptune Cabelin](https://github.com/ncabelin)
 - [Matt Duffy](https://github.com/DuffyCodes)
